@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MockitoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-02-05T08:43:20" hostname="admin1-HP-EliteBook-Folio-9480m" time="0.161">
+  <properties/>
+  <testcase name="testQuery" classname="MockitoTest" time="0.127"/>
+  <testcase name="customerReaderTest" classname="MockitoTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
